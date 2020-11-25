@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1599752863 source:c:\users\omkar\onedrive\desktop\embedded c kpit\act1\lab_activity_1_gpio\fuse.c
+	<avr/io.h>
+
+1599753200 source:c:\users\omkar\onedrive\desktop\embedded c kpit\act1\lab_activity_1_gpio\main.c
+	"GPIO.h"
+	<avr/io.h>
+	<stdio.h>
+	"GPIO.h"
+	<util/delay.h>
+
+1599752976 c:\users\omkar\onedrive\desktop\embedded c kpit\act1\lab_activity_1_gpio\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1599753031 c:\users\omkar\onedrive\desktop\embedded c kpit\act1\lab_activity_1_gpio\gpio.c
+	"GPIO.h"
+	<avr/io.h>
+	<stdio.h>
+	<util/delay.h>
+
+1599753175 source:c:\users\omkar\onedrive\desktop\embedded c kpit\act1\lab_activity_1_gpio\gpio.c
+	"GPIO.h"
+	<avr/io.h>
+	<stdio.h>
+	<util/delay.h>
+

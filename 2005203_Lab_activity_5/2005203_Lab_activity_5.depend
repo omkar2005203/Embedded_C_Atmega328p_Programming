@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1600707631 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\fuse.c
+	<avr/io.h>
+
+1601029915 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\main.c
+	<stdint.h>
+	<stdio.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"GPIO.h"
+	"AppMode.h"
+	"ModeState.h"
+
+1601029837 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\appmode.c
+	"AppMode.h"
+	"GPIO.h"
+
+1601030332 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\appmode.h
+
+1601027839 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\gpio.c
+	"GPIO.h"
+
+1601028884 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1601029500 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\modestate.c
+	"GPIO.h"
+	"GPIO.h"
+	"ModeState.h"
+
+1601029517 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\adc.c
+	"GPIO.h"
+	"ADC.h"
+	"GPIO.h"
+
+1601029845 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\adc.h
+
+1601029625 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\pwm.c
+	"PWM.h"
+	"GPIO.h"
+
+1601029985 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\pwm.h
+
+1601029936 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_5\2005203_lab_activity_5\modestate.h
+
+1601030301 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\adc.c
+	"ADC.h"
+	"GPIO.h"
+
+1601030238 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\adc.h
+
+1601028884 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1600707631 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\fuse.c
+	<avr/io.h>
+
+1601027839 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\gpio.c
+	"GPIO.h"
+
+1601029625 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\pwm.c
+	"PWM.h"
+	"GPIO.h"
+
+1601029985 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_5\pwm.h
+

@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1600844765 source:c:\users\rutvi\desktop\embedded c\activity\fuse.c
+	<avr/io.h>
+
+1600893849 source:c:\users\rutvi\desktop\embedded c\activity\main.c
+	"Wiper.h"
+
+1600891008 source:c:\users\rutvi\desktop\embedded c\activity\gpio.c
+	"GPIO.h"
+
+1600890956 c:\users\rutvi\desktop\embedded c\activity\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdlib.h>
+
+1600893529 source:c:\users\rutvi\desktop\embedded c\activity\adc.c
+	"ADC.h"
+
+1600893484 c:\users\rutvi\desktop\embedded c\activity\adc.h
+	"GPIO.h"
+
+1600893632 source:c:\users\rutvi\desktop\embedded c\activity\pwm.c
+	"PWM.h"
+
+1600893602 c:\users\rutvi\desktop\embedded c\activity\pwm.h
+	"ADC.h"
+
+1600893694 c:\users\rutvi\desktop\embedded c\activity\wiper.h
+	"PWM.h"
+
+1600894316 source:c:\users\rutvi\desktop\embedded c\activity\wiper.c
+	"Wiper.h"
+
+1600893530 source:c:\users\omkar\onedrive\desktop\test_prog\case study\activity\adc.c
+	"ADC.h"
+
+1600893486 c:\users\omkar\onedrive\desktop\test_prog\case study\activity\adc.h
+	"GPIO.h"
+
+1600890958 c:\users\omkar\onedrive\desktop\test_prog\case study\activity\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdlib.h>
+
+1600844766 source:c:\users\omkar\onedrive\desktop\test_prog\case study\activity\fuse.c
+	<avr/io.h>
+
+1600891010 source:c:\users\omkar\onedrive\desktop\test_prog\case study\activity\gpio.c
+	"GPIO.h"
+
+1600893634 source:c:\users\omkar\onedrive\desktop\test_prog\case study\activity\pwm.c
+	"PWM.h"
+
+1600893604 c:\users\omkar\onedrive\desktop\test_prog\case study\activity\pwm.h
+	"ADC.h"
+
+1600894318 source:c:\users\omkar\onedrive\desktop\test_prog\case study\activity\wiper.c
+	"Wiper.h"
+
+1600970336 c:\users\omkar\onedrive\desktop\test_prog\case study\activity\wiper.h
+	"PWM.h"
+
+1600893530 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\adc.c
+	"ADC.h"
+
+1600973344 c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\adc.h
+	"GPIO.h"
+
+1600972696 c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdlib.h>
+
+1600844766 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\fuse.c
+	<avr/io.h>
+
+1600891010 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\gpio.c
+	"GPIO.h"
+
+1600974620 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\main.c
+	"Wiper.h"
+
+1600974039 c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\wiper.h
+	"PWM.h"
+
+1600973273 c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\pwm.h
+	"ADC.h"
+
+1600971723 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\pwm.c
+	"PWM.h"
+
+1600971748 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\wiper.c
+	"Wiper.h"
+
+1600972991 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\adc_func.c
+	"ADC.h"
+
+1600973730 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\pwm_func.c
+	"PWM.h"
+
+1600974209 source:c:\users\omkar\onedrive\desktop\final\2005203_casestudy\2005203_casestudy\wiper_logic.c
+	"Wiper.h"
+

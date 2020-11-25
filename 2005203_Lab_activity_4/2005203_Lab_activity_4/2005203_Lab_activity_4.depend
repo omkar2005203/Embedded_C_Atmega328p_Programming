@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1600587974 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\fuse.c
+	<avr/io.h>
+
+1601037126 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\main.c
+	<stdint.h>
+	<stdio.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"GPIO.h"
+	"AppMode.h"
+	"ModeState.h"
+	"PWM.h"
+
+1600669086 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\gpio.c
+	"GPIO.h"
+	<avr/io.h>
+	<stdio.h>
+	<util/delay.h>
+
+1600672128 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1601035976 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\pwm.c
+	"PWM.h"
+	"GPIO.h"
+
+1601035958 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\pwm.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1601036540 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\appmode.c
+	"AppMode.h"
+	"GPIO.h"
+
+1601036436 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\appmode.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1600669431 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\modestate.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1600670744 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_4\2005203_lab_activity_4\modestate.c
+	"ModeState.h"
+	"GPIO.h"
+

@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1600403671 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\fuse.c
+	<avr/io.h>
+
+1601006404 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\main.c
+	"Appmode.h"
+
+1601006221 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\appmode.c
+	"Appmode.h"
+
+1601006710 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\appmode.h
+	"Modestate.h"
+
+1601006897 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\modestate.h
+	"GPIO.h"
+	"Appmode.h"
+
+1601006755 c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1601006472 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\gpio.c
+	"GPIO.h"
+
+1601006553 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\2005203_lab_activity_3\modestate.c
+	"Modestate.h"
+
+1601009189 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\appmode.c
+	"Appmode.h"
+
+1601006710 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\appmode.h
+	"Modestate.h"
+
+1601009144 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\modestate.h
+	"GPIO.h"
+	"Appmode.h"
+
+1601006755 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1600403671 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\fuse.c
+	<avr/io.h>
+
+1601006472 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\gpio.c
+	"GPIO.h"
+
+1601006553 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\modestate.c
+	"Modestate.h"
+
+1601008893 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_3\main.c
+	"Appmode.h"
+

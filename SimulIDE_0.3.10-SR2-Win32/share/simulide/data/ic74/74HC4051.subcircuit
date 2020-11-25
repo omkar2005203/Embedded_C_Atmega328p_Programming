@@ -1,0 +1,24 @@
+<!DOCTYPE SimulIDE>
+
+<subcircuit enodes="0">
+
+    <item itemtype="eMuxAnalog"
+        addressBits = "3"
+        impedance = "1"
+        connections="
+        pinY2-packagePin15
+        pinY1-packagePin14
+        pinY0-packagePin13
+        pinY3-packagePin12
+        pinY4-packagePin1
+        pinY5-packagePin5
+        pinY6-packagePin2
+        pinY7-packagePin4
+        PinInput-packagePin3
+        pinAddr0-packagePin11
+        pinAddr1-packagePin10
+        pinAddr2-packagePin9
+        PinEnable-packagePin6" >
+    </item>
+
+</subcircuit>

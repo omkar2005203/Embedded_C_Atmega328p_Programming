@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1599762508 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\multipleswitch_interrupt\fuse.c
+	<avr/io.h>
+
+1599892192 source:c:\users\omkar\onedrive\desktop\embedded c kpit\programs\test\multipleswitch_interrupt\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdint.h>
+	<avr/interrupt.h>
+
+1599762508 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_2\fuse.c
+	<avr/io.h>
+
+1600371555 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_2\gpio.c
+	"GPIO.h"
+	<avr/io.h>
+	<stdio.h>
+	<util/delay.h>
+
+1600371519 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_2\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1600375678 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_2\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdint.h>
+	<avr/interrupt.h>
+	"GPIO.h"
+	"FSMState.h"
+
+1600374274 c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_2\fsmstate.h
+	<stdint.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1600374207 source:c:\users\omkar\onedrive\desktop\embedded c kpit\final_submissions\2005203_lab_activity_2\statefsm.c
+	"GPIO.h"
+	"FSMState.h"
+
